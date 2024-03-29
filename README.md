@@ -26,13 +26,13 @@ To run LinkedInk locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-3. Download the llama-2-7b-chat.ggml model and place it in the `models` directory.
+3. Download the llama-2-7b-chat.ggml model and place it in the `models` directory. [Link](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
 
 4. Run the Streamlit app:
     ```bash
     streamlit run app.py
     ```
-   This will start the LinkedInk application, and you should be able to access it in your web browser at [http://localhost:8501](http://localhost:8501).
+   This will start the LinkedInk application, and you should be able to access it in your web browser.
 
 ## Usage 🚀
 1. Enter the details you want to include in your LinkedIn post in the "Enter the post details" input field.
